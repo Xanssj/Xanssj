@@ -36,5 +36,3 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
   <img src="https://img.shields.io/badge/CREATOR-NzZ--KERNEL-cyan?style=for-the-badge&logo=rocket" />
   <img src="https://img.shields.io/badge/CREATOR-ALLMIGHTY-lavender?style=for-the-badge&logo=target" />
 </p>
-
-> *"Si no es funcional y estéticamente perfecto, no está terminado."*
