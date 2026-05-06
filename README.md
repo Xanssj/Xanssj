@@ -41,4 +41,12 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
 
 ### 🔗 Proyectos Principales
 <p align="center">
-  <img src="
+  <img src="https://img.shields.io/badge/CREATOR-NzZ--KERNEL-cyan?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/CREATOR-ALLMIGHTY-lavender?style=for-the-badge&logo=target" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xanssj&color=blueviolet&style=flat-square&label=PERFIL+VISTO" alt="Views" />
+</p>
+
+> *"Si no es funcional y estéticamente perfecto, no está terminado."*
