@@ -25,7 +25,7 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
 
 ### 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xanssj&show_icons=true&theme=transparent&title_color=E6E6FA&text_color=ffffff&icon_color=E6E6FA&border_color=E6E6FA&hide_border=false" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xanssj&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA&border_radius=20" width="450" />
 </p>
 
 ---
