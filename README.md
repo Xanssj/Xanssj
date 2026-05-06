@@ -1,4 +1,4 @@
-# 🌌 !iGvNzZ | Full-Stack Creator
+# ⚡ !iGvNzZ | Full-Stack Creator
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=E6E6FA&center=true&vCenter=true&width=500&lines=NzZ-Kernel;Allmighty;Xmb+Systems;Full-Stack+Developer" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 ### 👨‍💻 Sobre mí
 Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear herramientas de automatización que rompan el estándar. Mi trabajo se basa en la funcionalidad absoluta y el diseño de élite.
 
-* 🚀 Creador de **NzZ-Kernel** (Automatización Premium para Discord).
+* 🚀 Creador de **NzZ-Kernel** (Automatización para Discord).
 * 💠 Creador de **Allmighty** (Ecosistema de gestión y utilidades).
 * 🛠️ Developer en **Xmb Systems** & **Xhanni Studios**.
 
@@ -41,5 +41,3 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xanssj&color=blueviolet&style=flat-square&label=PERFIL+VISTO" alt="Views" />
 </p>
-
-> *"Si no es funcional y estéticamente perfecto, no está terminado."*
