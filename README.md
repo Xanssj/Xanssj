@@ -1,7 +1,7 @@
 # 🌌 !iGvNzZ | Full-Stack Creator
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0a0a0a&height=200&section=header&text=NzZ-Kernel%20%7C%20Allmighty&fontSize=50&animation=fadeIn&fontColor=E6E6FA" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0a0a0a&height=200&section=header&text=NzZ-Kernel%20%7C%20Allmighty&fontSize=50&animation=fadeIn&fontColor=E6E6FA" />
 </p>
 
 ### 👨‍💻 Sobre mí
@@ -25,9 +25,9 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
 
 ### 📊 Mis Estadísticas (Elite Style)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xanssj&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA&border_radius=24" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xanssj&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA" width="400" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanssj&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA&border_radius=24" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanssj&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA" width="300" />
 </p>
 
 ---
