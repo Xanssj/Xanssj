@@ -1,7 +1,7 @@
 # 🌌 !iGvNzZ | Full-Stack Creator
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0a0a0a&height=200&section=header&text=NzZ-Kernel%20%7C%20Allmighty&fontSize=50&animation=fadeIn&fontColor=E6E6FA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=E6E6FA&center=true&vCenter=true&width=500&lines=NzZ-Kernel;Allmighty;Full-Stack+Creator" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 Sobre mí
@@ -23,11 +23,9 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
 
 ---
 
-### 📊 Mis Estadísticas (Elite Style)
+### 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xanssj&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA" width="400" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanssj&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E6E6FA&text_color=ffffff&border_color=E6E6FA" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xanssj&show_icons=true&theme=transparent&title_color=E6E6FA&text_color=ffffff&icon_color=E6E6FA&border_color=E6E6FA&hide_border=false" width="450" />
 </p>
 
 ---
@@ -38,4 +36,6 @@ Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear h
   <img src="https://img.shields.io/badge/CREATOR-ALLMIGHTY-lavender?style=for-the-badge&logo=target" />
 </p>
 
-> *"Si no es funcional y estéticamente perfecto, no está terminado."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xanssj&color=blueviolet&style=flat-square&label=PERFIL+VISTO" alt="Views" />
+</p>
