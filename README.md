@@ -1,4 +1,4 @@
-<h1 align="center">Xan</h1>
+<h1 align="center">xan</h1>
 
 <p align="center">
   Ingeniero en sistemas · Desarrollador full-stack · Fundador de <a href="https://xhannistudios.org">Xhanni Studios</a>
