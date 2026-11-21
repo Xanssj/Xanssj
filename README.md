@@ -5,11 +5,11 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-Soy un **Ideador** por naturaleza y desarrollador Full-Stack enfocado en crear herramientas de automatización que rompan el estándar. Mi trabajo se basa en la funcionalidad absoluta y el diseño de élite.
+Soy un **INGENIRO EN SISTEMAS** y desarrollador Full-Stack enfocado en crear herramientas de automatización. Mi trabajo se basa en la funcionalidad absoluta y el diseño.
 
 * 🚀 Creador de **NzZ-Kernel** (Automatización para Discord).
 * 💠 Creador de **Allmighty** (Ecosistema de gestión y utilidades).
-* 🛠️ Developer en **Xmb Systems** & **Xhanni Studios**.
+* 🛠️ Developer/Founder en **Xhanni Studios**.
 
 ---
 
