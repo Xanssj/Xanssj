@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://xhannistudios.org"><img src="https://img.shields.io/badge/xhannistudios.org-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Sitio web" /></a>
-  <a href="https://discord.gg/Gcxfn7rvJN"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/QKmUekvX2X"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://x.com/TtvXan"><img src="https://img.shields.io/badge/@TtvXan-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
