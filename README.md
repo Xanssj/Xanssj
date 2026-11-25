@@ -1,7 +1,7 @@
 <h1 align="center">xan</h1>
 
 <p align="center">
-  Ingeniero en sistemas · Desarrollador full-stack · Fundador de <a href="https://xhannistudios.org">Xhanni Studios</a> web beta <a href="https://xanssj.github.io/">
+  Ingeniero en sistemas · Desarrollador full-stack · Fundador de <a href="https://xhannistudios.org">Xhanni Studios</a> 
 </p>
 
 <p align="center">
