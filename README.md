@@ -27,7 +27,7 @@ Construyo herramientas de automatización y productos web de punta a punta: desd
 | **[Allmighty](https://xhannistudios.org/store)** | Bot de Discord con panel web: moderación, tickets, protección anti-raid, niveles, alertas y más, con planes y pagos en línea. |
 | **Xhanni Studios** | Estudio de desarrollo: bots a medida, sitios web, apps, ciberseguridad e infraestructura. |
 | **NzZ-Kernel** | Comunidad y servidor de pruebas donde nacen y se prueban las automatizaciones para Discord. |
-| **xhanniZER0-app** | experimental/proximamente. |
+| **xhanniZER0-app** | ONLINE VIEW ON REPO. |
 
 ### Tecnologías
 
