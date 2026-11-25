@@ -1,13 +1,17 @@
 <h1 align="center">xan</h1>
 
 <p align="center">
-  Ingeniero en sistemas · Desarrollador full-stack · Fundador de <a href="https://xhannistudios.org">Xhanni Studios</a> 
+  Ingeniero en sistemas · Desarrollador full-stack · Fundador de <a href="https://xanssj.github.io/">Xhanni Studios</a>
 </p>
 
 <p align="center">
-  <a href="https://xhannistudios.org"><img src="https://img.shields.io/badge/xhannistudios.org-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Sitio web" /></a>
+  <a href="https://xanssj.github.io/"><img src="https://img.shields.io/badge/xanssj.github.io-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Web provisoria" /></a>
   <a href="https://discord.gg/QKmUekvX2X"><img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://x.com/TtvXan"><img src="https://img.shields.io/badge/@TtvXan-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<p align="center">
+  <sub>Web provisoria por el momento: <a href="https://xanssj.github.io/">xanssj.github.io</a></sub>
 </p>
 
 ---
@@ -23,8 +27,7 @@ Construyo herramientas de automatización y productos web de punta a punta: desd
 | **[Allmighty](https://xhannistudios.org/store)** | Bot de Discord con panel web: moderación, tickets, protección anti-raid, niveles, alertas y más, con planes y pagos en línea. |
 | **Xhanni Studios** | Estudio de desarrollo: bots a medida, sitios web, apps, ciberseguridad e infraestructura. |
 | **NzZ-Kernel** | Comunidad y servidor de pruebas donde nacen y se prueban las automatizaciones para Discord. |
-|**xhanniZER0-app** | experimental/proximamente. |
-
+| **xhanniZER0-app** | experimental/proximamente. |
 
 ### Tecnologías
 
@@ -59,5 +62,5 @@ Construyo herramientas de automatización y productos web de punta a punta: desd
 ---
 
 <p align="center">
-  <sub>¿Tienes un proyecto en mente? Escríbeme en <a href="https://xhannistudios.org/#contact">xhannistudios.org</a>.</sub>
+  <sub>¿Tienes un proyecto en mente? Visita la web provisoria en <a href="https://xanssj.github.io/">xanssj.github.io</a> o escríbeme por <a href="https://discord.gg/QKmUekvX2X">Discord</a>.</sub>
 </p>
